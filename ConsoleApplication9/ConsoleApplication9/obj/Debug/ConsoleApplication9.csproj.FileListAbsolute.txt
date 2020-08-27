@@ -1,0 +1,10 @@
+C:\Documents and Settings\user-3-203.LAN.006\Мои документы\Visual Studio 2008\Projects\ConsoleApplication9\ConsoleApplication9\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\user-3-203.LAN.006\Мои документы\Visual Studio 2008\Projects\ConsoleApplication9\ConsoleApplication9\bin\Debug\ConsoleApplication9.exe
+C:\Documents and Settings\user-3-203.LAN.006\Мои документы\Visual Studio 2008\Projects\ConsoleApplication9\ConsoleApplication9\bin\Debug\ConsoleApplication9.pdb
+C:\Documents and Settings\user-3-203.LAN.006\Мои документы\Visual Studio 2008\Projects\ConsoleApplication9\ConsoleApplication9\obj\Debug\ConsoleApplication9.exe
+C:\Documents and Settings\user-3-203.LAN.006\Мои документы\Visual Studio 2008\Projects\ConsoleApplication9\ConsoleApplication9\obj\Debug\ConsoleApplication9.pdb
+C:\Documents and Settings\user-3-203.LAN.006\Мои документы\Загрузки\ConsoleApplication9\ConsoleApplication9\obj\Debug\ConsoleApplication9.exe
+C:\Documents and Settings\user-3-203.LAN.006\Мои документы\Загрузки\ConsoleApplication9\ConsoleApplication9\obj\Debug\ConsoleApplication9.pdb
+C:\Documents and Settings\user-3-203.LAN.006\Мои документы\Загрузки\ConsoleApplication9\ConsoleApplication9\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\user-3-203.LAN.006\Мои документы\Загрузки\ConsoleApplication9\ConsoleApplication9\bin\Debug\ConsoleApplication9.exe
+C:\Documents and Settings\user-3-203.LAN.006\Мои документы\Загрузки\ConsoleApplication9\ConsoleApplication9\bin\Debug\ConsoleApplication9.pdb
